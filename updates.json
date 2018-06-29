@@ -8,7 +8,7 @@
   "darwin-x64-prod": {
     "readme": "Second Release",
     "update": "https://raw.githubusercontent.com/chethankumar/studio/master/release.json",
-    "install": "https://github.com/chethankumar/studio/releases/download/latest-mac/MobileFirst.Studio-mac.zip",
+    "install": "https://github.com/chethankumar/studio/releases/download/latest-mac/MobileFirst.Studio-1.1.0.dmg",
     "version": "1.1.0"
   },
   "linux-x64-prod": {
