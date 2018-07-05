@@ -9,7 +9,7 @@
     "readme": "Second Release",
     "update": "https://raw.githubusercontent.com/chethankumar/studio/master/release.json",
     "install": "https://github.com/chethankumar/studio/releases/download/v1.1/MobileFirst.Studio-0.1.3-mac.zip",
-    "version": "0.1.3"
+    "version": "0.13.0"
   },
   "linux-x64-prod": {
     "update": "https://github.com/megahertz/electron-simple-updater/releases/download/linux-x64-prod-v0.0.2/simple-updater-example-0.0.2-x86_64.AppImage",
