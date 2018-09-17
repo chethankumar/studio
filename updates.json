@@ -2,7 +2,7 @@
   "win32-x64-prod": {
     "readme": "Second release",
     "update": "https://github.com/chethankumar/studio/releases/tag/v1.1",
-    "install": "https://github.com/chethankumar/studio/releases/download/v1.1/MobileFirst.Studio.Setup.0.29.0.exe",
+    "install": "https://github.com/chethankumar/studio/releases/download/v1.1/MobileFirst.Studio.Setup.0.25.0.exe",
     "version": "0.29.0"
   },
   "darwin-x64-prod": {
